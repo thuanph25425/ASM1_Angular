@@ -1,0 +1,32 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Product A",
+      "price": 100,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgfuB5_E_V3WYUI4GZOAX8NvPWap58OneKmBU1zDG&s"
+    },
+    {
+      "id": 2,
+      "name": "Product B",
+      "price": 200,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgfuB5_E_V3WYUI4GZOAX8NvPWap58OneKmBU1zDG&s"
+    },
+    {
+      "id": 3,
+      "name": "Product C",
+      "price": 300,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDgfuB5_E_V3WYUI4GZOAX8NvPWap58OneKmBU1zDG&s"
+    },
+    {
+      "name": "Product D",
+      "price": "500",
+      "id": 4
+    },
+    {
+      "name": "p",
+      "price": "05250",
+      "id": 5
+    }
+  ]
+}
